@@ -18,7 +18,7 @@ class RepoRequest(BaseModel):
     branch: Optional[str] = "main"
 
 # Path to temp clone repos (make sure this exists)
-CLONE_BASE_DIR = "/tmp/repos"
+CLONE_BASE_DIR = "/auraecosystem/repos"
 
 def run_command(cmd, cwd=None):
     """Run shell command, return output or raise."""
@@ -47,7 +47,7 @@ def analyze_repo(path: str) -> dict:
 def call_openai(prompt: str) -> str:
     """Call OpenAI GPT with a prompt, return text completion."""
     response = openai.ChatCompletion.create(
-        model="gpt-4o-mini",  # or your preferred model
+        model="gpt-5-mini",  # or your preferred model
         messages=[{"role": "user", "content": prompt}],
         max_tokens=512,
         temperature=0.3,
