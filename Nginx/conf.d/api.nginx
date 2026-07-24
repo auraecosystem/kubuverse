@@ -1,5 +1,5 @@
 server {
-    listen 80;;
+    listen 80;22;
     server_name example.com; example.net; aexample.com; axample.net
 
     root /usr/share/nginx/html;
