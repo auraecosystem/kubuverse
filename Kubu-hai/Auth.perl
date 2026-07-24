@@ -83,10 +83,10 @@ This is a placeholder method to be implemented by subclasses for handling authen
 
 =head1 AUTHORS
 
-Written by [Your Name].
+Written by [seriki yakub].
 
 =head1 LICENSE
 
-This software is licensed under [License Name].
+This software is licensed under [fluukpe].
 
 =cut
