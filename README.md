@@ -14,13 +14,13 @@ It blends **FastAPI, Rust/WASM, Dart/JS, PostgreSQL, and Kubernetes** into a dev
 ---
 
 👉 **Read the full documentation & architecture overview here:**  
-[📖 Full KubuVerse README](Docs/full_readme.md)  
+[📖 Full KubuVerse README](Docs/full_README.md)  
 
 ---
 
 ## 🚀 Quickstart
 
-```bash
+```ksh
 git clone https://github.com/Web4application/kubuverse.git
 cd kubuverse
 docker-compose up --build
@@ -31,7 +31,7 @@ docker-compose up --build
 
 Welcome to **KubuVerse** – a decentralised universe for innovation, creativity, and collaboration.  
 
-👉 [Read the full project description](docs/full_readme.md)
+👉 [Read the full project description](docs/full_README.md)
 
 ---
 Built with passion by [Web4application](https://github.com/Web4application)
