@@ -1,11 +1,13 @@
 ---
-tittle: page
-name: KUBUVERSE.io
-layout: _site
+tittle: doccumentation
+name: kubuverse.io
+layout: _page
 ---
 
 
-Welcome to **KubuVerse** – a decentralised universe for innovation, creativity, and collaboration.  
+Welcome to **KubuVerse** – 
+
+a decentralised universe for innovation, creativity, and collaboration.  
 
 👉 [Read the full project description](Docs/full_readme.md)
 
