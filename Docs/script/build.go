@@ -1,4 +1,3 @@
-
 //go:build !cmd_go_bootstrap
 
 // Package doc implements the “go doc” command.
