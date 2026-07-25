@@ -3,7 +3,6 @@ page: _site
 tittle: Creating a PDF
 Description: To produce PDF specifically an output file with a pdf extension
 ---
-
 ```ksh
 pandoc test.txt -o test.pdf
 ```
