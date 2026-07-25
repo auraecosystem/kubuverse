@@ -24,10 +24,9 @@ It blends **FastAPI, Rust/WASM, Dart/JS, PostgreSQL, and Kubernetes** into a dev
 ## 🖼️ Visual Architecture  
 
 <p align="center">
-  <img src="kubuverse-architecture.png" alt="KubuVerse Architecture" width="600"/>
-</p>
+  <img src="kubuverse-architecture.png" alt="KubuVerse Architecture"width="600" /></p>
 
-```text
+```console
           ┌───────────────────────┐
           │   👨‍💻  User Interface    │
           │   (Dart / JS Frontend) │
@@ -164,3 +163,4 @@ This project is licensed under the [MIT License](../LICENSE).
 * 🗣️ Discord: *Coming soon*
 
 ---
+
