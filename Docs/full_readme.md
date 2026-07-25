@@ -4,6 +4,7 @@ layout: "site"
 ---
 
 
+
 # 🌌 KubuVerse  
 
 KubuVerse is an **AI-native, blockchain-ready, cloud-first ecosystem** for building scalable and decentralized applications.  
